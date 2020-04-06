@@ -1,0 +1,44 @@
+{
+  "allItems": [
+    {
+      "image": "https://user-images.githubusercontent.com/20631330/78320164-d62a4680-7536-11ea-8ac1-2272caa9458f.png",
+      "title": "What are Coronaviruses?",
+      "description": "Coronaviruses are a large family of viruses that can cause everything from common colds to more serious respiratory diseases that are important for public health, such as the Severe Acute Respiratory Syndrome(SARS) and the Middle East Respiratory Syndrome(MERS).The new coronavirus discovered in December 2019 in China(SARS - CoV - 2) is the causative agent of 2019 coronavirus disease(COVID - 19)."
+    },
+    {
+      "image": "https://user-images.githubusercontent.com/20631330/78320195-e3dfcc00-7536-11ea-9dca-bf9bbb4befc4.png",
+      "title": "What are the symptoms?",
+      "description": "Coronavirus Disease 2019 (Covid-19) is similar to a flu. It is usually a mild or moderate disease, but some cases can become serious.The most common symptoms are: fever, cough and/or difficulty breathing. Some patients may experience tiredness, body aches, malaise in general, nasal congestion, runny nose, sore throat or chest pain.These symptoms are usually mild and begin gradually. Some people are infected, but have no symptoms or have mild, almost imperceptible symptoms. Most people(about 80 % ) recover from the disease without needing special treatment.About 1 in 6 people who fall ill with COVID - 19 may have the severe form of the disease. Elderly people with certain chronic conditions, such as high blood pressure, cardiovascular disease and diabetes, have a greater risk of developing the severe form. People with fever, cough and difficulty breathing should seek immediate medical attention. A mask should be used as a way to prevent the dispersion of respiratory droplets when coughing, sneezing or talking, combined with washing or hand hygiene.After treatment, medical guidelines should be followed, avoiding frequent public or work environments, seeking to remain at home until the symptoms disappear.This will prevent the spread of viruses and the occurrence of new infections."
+    },
+    {
+      "image": "https://user-images.githubusercontent.com/20631330/78320225-f3f7ab80-7536-11ea-85eb-aad906f0a9ae.png",
+      "title": "How is it transmitted?",
+      "description": "Expelled from the nose and mouth when an infected person coughs, sneezes or speaks, even when they have mild symptoms or do not feel sick. These droplets can be deposited on objects or surfaces for hours, and other people can acquire the virus by touching these contaminated objects or surfaces and then touching the eyes, nose or mouth. They can also become infected by directly breathing respiratory droplets from an infected person when they cough or sneeze or by direct contact such as touching or shaking hands. So it is important to stand more than 2 meters away from a sick person, and wash your hands with soap and water or alcohol gel."
+    },
+    {
+      "image": "https://user-images.githubusercontent.com/20631330/78320275-1ab5e200-7537-11ea-8894-5a194f9dc3df.png",
+      "title": "How to prevent it?",
+      "description": "General respiratory prevention and etiquette measures should be adopted, such as: - Wash your hands regularly and thoroughly with soap and water, or clean them with 70% alcohol - gel. In this way it is possible to eliminate viruses that may be in your hands. - Keep at least 2 meters between you and anyone coughing or sneezing. That way it is possible to decrease the risk of breathing respiratory droplets that contain viruses, if the person is sick. - Avoid touching your eyes, nose and mouth with your unwashed hands. This way, it is possible to prevent contaminated hands from transferring viruses to the eyes, nose or mouth, making you sick. - Make sure that you and the people around you practice good breathing etiquette. This means covering your mouth and nose with your forearm or with a disposable tissue when cough or sneeze. Then, dispose of the used tissue immediately.That way you protect people around you from viruses like colds, flu and COVID - 19. - Maintain well ventilated environments and avoid sharing personal items, with cutlery, plates, glasses or bottles.This helps to prevent the spread of respiratory diseases."
+    },
+    {
+      "image": "https://user-images.githubusercontent.com/20631330/78320459-8435f080-7537-11ea-9002-2c693d5ef3c1.png",
+      "title": "When to wear a mask?",
+      "description": "Wear a mask if you are coughing or sneezing to avoid spreading viruses to others. For healthy people, wear a mask only if you are caring for a person suspected of having a coronavirus infection. Masks are effective only when used in combination with frequent hand cleaning with soap and water or sanitized with 70% alcohol gel. When using a mask, one must know how to use it and dispose of it properly."
+    },
+    {
+      "image": "https://user-images.githubusercontent.com/20631330/78320495-9dd73800-7537-11ea-974a-e0bae5f98ce4.png",
+      "title": "How is the diagnosis made?",
+      "description": "The diagnosis of coronavirus is made by collecting respiratory materials from patients classified as suspected cases of COVID - 19. The samples are sent to the Central Public Health Laboratories(Lacen) of the States to perform molecular biology exams to detect viral RNA."
+    },
+    {
+      "image": "https://user-images.githubusercontent.com/20631330/78320579-c4956e80-7537-11ea-9948-b43f2aeec78a.png",
+      "title": "Is there a vaccine, medication or treatment ? ",
+      "description": "To date, there is no vaccine available against COVID - 19. There is treatment available, which prevents the disease from worsening and reduces discomfort. However, there is still no specific medication to eliminate the coronavirus. The vast majority of cases are self - limiting, that is, they are spontaneously cured.According to the World Health Organization, about 80% of cases are mild. The biggest concern is when the disease affects the elderly or people with chronic diseases(hypertension, heart disease, diabetes, etc.), in which the risk of complications increases. People with severe illness should be hospitalized. Serious cases should be referred to a Reference Hospital for isolation and treatment. Mild cases should be monitored by Primary Health Care(PHC) and home precautionary measures instituted."
+    },
+    {
+      "image": "https://user-images.githubusercontent.com/20631330/78320599-d414b780-7537-11ea-95f3-a88174758a0a.png",
+      "title": "Information for travelers",
+      "description": "Assess the real need for travel to a location with COVID - 19 cases and postpone if possible. If it is unavoidable, prevent and follow the guidelines of the local health authorities. If you are traveling back from a place with cases of COVID - 19, be aware of your health condition, especially in the first 14 days after returning. If you experience symptoms such as fever, cough and difficulty breathing, seek medical care and report your travel history. And don't forget to take all the recommended precaution and prevention measures, practicing breathing etiquette and, mainly, reinforcing hand washing with soap and water or cleaning with 70% alcohol gel."
+    }
+  ]
+}
